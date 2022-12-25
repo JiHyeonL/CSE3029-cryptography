@@ -1,0 +1,19 @@
+d = d8c37457b25fcb7f92ec7143b08d7c1b54d856e5f07715e463db198b547fb44e
+Qx = f2a0449016394e2562349c55d20cb053c1c11559543425d03e027e97d3a3bf66
+Qy = 258abbdde134965959263229ab9e0345c3e9fabe9e639fbddae1428bd9c6439b
+r = b7269b0842f3d466f12c5b5dd0e2e6b9c283994d5526c8b848330fe2dc965bef
+s = 42b186b1b61a7fe767284e926b390aeb6ab61db5021df26eb45511cbdc41f06d
+Valid signature ...PASSED
+Signature verification error = 3 ...PASSED
+Signature verification error = 3 ...PASSED
+---
+Signature verification error = 1 ...PASSED
+---
+Signature verification error = 2 ...PASSED
+Signature verification error = 2 ...PASSED
+---
+Valid signature ...PASSED
+Valid signature ...PASSED
+---
+Random Testing................................................................................ ...PASSED
+CPU 사용시간 = 120.2051초
